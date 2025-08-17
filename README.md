@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/cybersecurity-dev/awesome-c-programming-language">
-  <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/C_logo.svg" />
+  <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/C_logo.svg" />
 </a></p>
 
 # [C](https://github.com/cybersecurity-dev/awesome-c-programming-language) [Development](https://en.wikipedia.org/wiki/C_standard_library) [Toolkit](https://en.wikipedia.org/wiki/C_POSIX_library)
