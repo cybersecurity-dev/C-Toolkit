@@ -2,7 +2,7 @@
   <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/C_logo.svg" />
 </a></p>
 
-# [C](https://github.com/cybersecurity-dev/awesome-c-programming-language) [Development](https://en.wikipedia.org/wiki/C_standard_library) [Toolkit](https://en.wikipedia.org/wiki/C_POSIX_library)
+# [C](https://en.wikipedia.org/wiki/C_(programming_language)) [Development](https://en.wikipedia.org/wiki/C_standard_library) [Toolkit](https://en.wikipedia.org/wiki/C_POSIX_library)
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -13,4 +13,14 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
-You can access the Awesome C Programming Language [here](https://github.com/cybersecurity-dev/awesome-c-programming-language)
+##
+
+### Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/C-Toolkit/graphs/contributors)!
+
+[🔼 Back to top](#c-development-toolkit)
