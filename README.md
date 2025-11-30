@@ -1,8 +1,13 @@
-<p align="center"><a href="https://github.com/cybersecurity-dev/awesome-c-programming-language">
-  <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/C_logo.svg" />
-</a></p>
+<div align="center">
+    <p align="center">
+        <a href="https://github.com/cybersecurity-dev/awesome-c-programming-language">
+          <img width="8%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/C_logo.svg" />
+        </a>
+    </p>
 
-# [C](https://en.wikipedia.org/wiki/C_(programming_language)) [Development](https://en.wikipedia.org/wiki/C_standard_library) [Toolkit](https://en.wikipedia.org/wiki/C_POSIX_library)
+# [C](https://wikipedia.org/wiki/C_(programming_language)) [Development](https://wikipedia.org/wiki/C_standard_library) [Toolkit](https://wikipedia.org/wiki/C_POSIX_library)
+</div>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
@@ -14,6 +19,11 @@
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
+
+## 📖 Contents
+- [My Awesome Lists](#my-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ##
 
